@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "mvrcusss",
+    "email": "example@example.navnic.org"
+  },
+  "description": "Ashmoor RPC website built with Vercel",
+  "records": {
+    "A": ["76.76.21.21"]
+  }
+}
