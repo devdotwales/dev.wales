@@ -1,4 +1,5 @@
 [
     "raw-api",
-    "get"
+    "get",
+    "nic"
 ]
