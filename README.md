@@ -13,4 +13,4 @@
 <p align="center">A sweet looking domain for developers. Visit the link below to get yours!</p>
 
 
-<h1 align="center">https://domain.navnic.org</h1>
+<h1 aref+"https://domain.navnic.org" align="center">https://domain.navnic.org</h1>
