@@ -10,19 +10,7 @@
 
 
 
-<p align="center">A sweet looking domain for developers. Based on the is-a.dev project.</p>
+<p align="center">A sweet looking domain for developers. Visit the link below to get yours!</p>
 
 
-
-
-# Register
-
-- [Fork](https://github.com//fork) the repository.
-- Follow the instructions on the [is-a.dev documentation](https://docs.is-a.dev). (dev.wales works exactly the same)
-- Once you open your pull request (PR), it will be reviewed. *Keep an eye on it in case changes are needed!*
-   - If changes have been requested, please make the specified changes otherwise **you will be rejected**.
-- Once your PR is merged, your DNS records should be published with-in a few minutes.
-- Enjoy your new `.dev.wales` domain! Please consider leaving a star ⭐️ to help support us!
-
-## Report Abuse
-If you find any subdomains being abused or breaking our TOS, please report them by [creating an issue](https://github.com/devdotwales/dev.wales/issues/new?assignees=&labels=report-abuse&projects=&template=report-abuse.md&title=Report+abuse) with relevant evidence.
+<h1 align="center">https://domain.navnic.org</h1>
